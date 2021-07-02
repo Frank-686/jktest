@@ -2,7 +2,6 @@
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png" />
     <HelloWorld msg="Welcome to Your Vue.js App" />
-    <h1 class="66">jenkins test 342523423</h1>
   </div>
 </template>
 
